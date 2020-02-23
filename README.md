@@ -2,7 +2,9 @@
 
 ## EXPERIMENTER DECK HEADS or TAILS? PROJECT TWO
 
-![]()
+![](https://github.com/SteveJustin1963/TE-2-46-HEADS-TAILS/blob/master/cct.png)
+
+
 
 This project adds a further 9 parts to the HEE HAW SIREN to make our 2-LED readout "HEADS OR TAILS". You must complete the HEE HAW first and have it operating correctly before starting this project. This way you are testing your workmanship in stages...its no good completing a project to find it doesn't work.  
 
